@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOpdracht", "ListOpdracht-2\ListOpdracht.csproj", "{036F3BF1-26FE-4BB8-961E-6C4D69FA01A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumOpdracht", "EnumOpdracht\EnumOpdracht.csproj", "{C8A4160F-7E07-40BB-ABF3-D1FB9935FD0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{036F3BF1-26FE-4BB8-961E-6C4D69FA01A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{036F3BF1-26FE-4BB8-961E-6C4D69FA01A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{036F3BF1-26FE-4BB8-961E-6C4D69FA01A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8A4160F-7E07-40BB-ABF3-D1FB9935FD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A4160F-7E07-40BB-ABF3-D1FB9935FD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A4160F-7E07-40BB-ABF3-D1FB9935FD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A4160F-7E07-40BB-ABF3-D1FB9935FD0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
