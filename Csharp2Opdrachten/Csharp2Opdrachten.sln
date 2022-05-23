@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListOpdracht", "ListOpdrach
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumOpdracht", "EnumOpdracht\EnumOpdracht.csproj", "{C8A4160F-7E07-40BB-ABF3-D1FB9935FD0E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorOpdracht", "ConstructorOpdracht\ConstructorOpdracht.csproj", "{83ADF773-9B84-4F88-84E8-38D7DF4D128E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDirOpdracht", "FileDirOpdracht\FileDirOpdracht.csproj", "{F20957CB-6490-48FA-912C-030E7A2308C1}"
 EndProject
 Global
@@ -25,10 +23,6 @@ Global
 		{C8A4160F-7E07-40BB-ABF3-D1FB9935FD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8A4160F-7E07-40BB-ABF3-D1FB9935FD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8A4160F-7E07-40BB-ABF3-D1FB9935FD0E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83ADF773-9B84-4F88-84E8-38D7DF4D128E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83ADF773-9B84-4F88-84E8-38D7DF4D128E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83ADF773-9B84-4F88-84E8-38D7DF4D128E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83ADF773-9B84-4F88-84E8-38D7DF4D128E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F20957CB-6490-48FA-912C-030E7A2308C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F20957CB-6490-48FA-912C-030E7A2308C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F20957CB-6490-48FA-912C-030E7A2308C1}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -23,11 +23,15 @@ namespace FileDirOpdracht
 
             FileInfo[] fileEntries = targetDirectory.GetFiles();
             foreach (FileInfo file in fileEntries)
+            {
                 ProcessFile(file);
+            }
 
             DirectoryInfo[] subdirectoryEntries = targetDirectory.GetDirectories();
             foreach (DirectoryInfo subdirectory in subdirectoryEntries)
+            {
                 ProcessDirectory(subdirectory);
+            }
         }
 
         public static void ProcessFile(FileInfo file)
